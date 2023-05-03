@@ -1,0 +1,1 @@
+export const APPLY_FILTER = "filter/apply-filter";
